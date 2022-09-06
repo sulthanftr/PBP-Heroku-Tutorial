@@ -1,1 +1,1 @@
-web: gunicorn pbp-tutorial.wsgi --log-file -
+web: gunicorn tutorial_django.wsgi --log-file -
